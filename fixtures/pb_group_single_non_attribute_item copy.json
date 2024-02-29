@@ -1,0 +1,18 @@
+{
+    "type": "group",
+    "id": "edison-bulb-string-lights",
+    "tags": [
+      "simple-pip",
+      "!attributes",
+      "!monogram",
+      "!bundled-items"
+    ],
+    "product": {
+      "groupId": "edison-bulb-string-lights",
+      "skus": [
+        "5943506"
+      ]
+    }
+  }
+
+  

@@ -1,0 +1,19 @@
+{
+  "name": "e2e_Playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "allure": "allure generate --clean allure-results && allure open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1",
+    "allure-playwright": "^2.0.0-beta.23"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^8.9.0"
+  }
+}

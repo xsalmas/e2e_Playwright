@@ -1,0 +1,19 @@
+{
+    "type": "group",
+    "brand":"mg",
+    "id": "edison-bulb-string-lights",
+    "tags": [
+      "simple-pip",
+      "!attributes",
+      "!monogram",
+      "!bundled-items"
+    ],
+    "product": {
+      "groupId": "day-to-night-mug-shaker",
+      "skus": [
+        "5943506"
+      ]
+    }
+  }
+
+  
